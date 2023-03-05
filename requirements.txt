@@ -6,3 +6,6 @@ numpy
 pytest
 notebookjs
 jupyter
+matplotlib
+setuptools<=57.5.0
+git+https://github.com/danoneata/chalk@srush-patch-1
